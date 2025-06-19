@@ -1,0 +1,7 @@
+C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\Database Backup Service\bin\Release\Database Backup Service.exe.config
+C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\Database Backup Service\bin\Release\Database Backup Service.exe
+C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\Database Backup Service\bin\Release\Database Backup Service.pdb
+C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\Database Backup Service\obj\Release\Database Backup Service.csproj.AssemblyReference.cache
+C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\Database Backup Service\obj\Release\Database Backup Service.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\Database Backup Service\obj\Release\Database Backup Service.exe
+C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\Database Backup Service\obj\Release\Database Backup Service.pdb

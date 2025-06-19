@@ -1,0 +1,63 @@
+﻿Installing assembly 'C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe
+   logfile = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.InstallLog
+Installing service DatabaseBackupService...
+Service DatabaseBackupService has been successfully installed.
+Creating EventLog source DatabaseBackupService in log Application...
+Committing assembly 'C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe
+   logfile = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.InstallLog
+Uninstalling assembly 'C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe
+   logfile = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.InstallLog
+Removing EventLog source DatabaseBackupService.
+Service DatabaseBackupService is being removed from the system...
+Service DatabaseBackupService was successfully removed from the system.
+Installing assembly 'C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe
+   logfile = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.InstallLog
+Installing service DatabaseBackupService...
+Service DatabaseBackupService has been successfully installed.
+Creating EventLog source DatabaseBackupService in log Application...
+Committing assembly 'C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe
+   logfile = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.InstallLog
+Uninstalling assembly 'C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe
+   logfile = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.InstallLog
+Removing EventLog source DatabaseBackupService.
+Service DatabaseBackupService is being removed from the system...
+Service DatabaseBackupService was successfully removed from the system.
+Installing assembly 'C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe
+   logfile = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.InstallLog
+Installing service DatabaseBackupService...
+Service DatabaseBackupService has been successfully installed.
+Creating EventLog source DatabaseBackupService in log Application...
+Committing assembly 'C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe
+   logfile = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.InstallLog
+Uninstalling assembly 'C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.exe
+   logfile = C:\Users\DELL PRO\Desktop\Karim\My All Files\Basics\24 - Windows Services\DatabaseBackupService\bin\Release\DatabaseBackupService.InstallLog
+Removing EventLog source DatabaseBackupService.
+Service DatabaseBackupService is being removed from the system...
+Service DatabaseBackupService was successfully removed from the system.
